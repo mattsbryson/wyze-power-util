@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import os
 from wyze_sdk import Client
 from wyze_sdk.models.devices import plugs
